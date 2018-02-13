@@ -11,7 +11,7 @@ class linkedList{
     }
 
     add(value){
-        let node = {value, next: null};
+        let node = new Node(value);
         if(this.head == null){
             this.head = node;
         } else {
