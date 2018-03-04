@@ -1,4 +1,4 @@
-class stack{
+class Stack{
 
     constructor(size = 10){
         this.maxSize = size;
@@ -38,7 +38,7 @@ class stack{
     }
 }
 
-let callStack = new stack(5);
+let callStack = new Stack(5);
 console.log(callStack.pop()); //nothing to pop
 console.log(callStack.push(1)); //1
 console.log(callStack.push(2)); //2
