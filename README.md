@@ -1,2 +1,3 @@
-# ADA
-Algorithms and Data-structures implementation using Javascript ES6 
+# ADA - Algorithms and Data Structures Analysis!
+
+Implementations, Problems and some fun interview stuff.
